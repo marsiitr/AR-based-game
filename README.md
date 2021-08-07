@@ -1,5 +1,6 @@
-# AR-Based-Game
-MARS Open Projects 2021
+# AR-Based Game
+
+## Open Projects 2021
 
 ![Main Menu!](/Images/MainMenu.jpeg "MainMenu")
 
