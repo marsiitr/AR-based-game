@@ -33,6 +33,26 @@ In our project we used the raycasting feature of AR Foundation to spawn the enem
 We used raycasting to detect the enemies while the enemy is being killed such that enemy can be killed only when the ray hits the enemy which is in the real world and that collision coordinate is noted and then it is checked if the name of the object which was collided with the ray is with name given by us to that object and if that is matched then according to the number of shoots the enemy gets dead. So inorder to help the virtual object to be get collided with the ray we use box colliders which we attached to the body of the enemies. The green colour cube around these prefabs is the box collider. 
 </p>
 
+<h2>Cost Structure</h2>
+<table style="width:100%">
+  <tr>
+    <th>Software Components</th>
+    <th>Cost</th>
+  </tr>
+  <tr>
+    <td>C#</td>
+    <td>None(Open-source)</td>
+  </tr>
+  <tr>
+    <td>Unity</td>
+    <td>Free for students</br>$1,800 for professional plan</td>
+  </tr>
+  <tr>
+    <td>Asset store</td>
+    <td>Depends on different assets</br>Free assets used</td>
+  </tr>
+</table>
+
 <h2>Applications</h2>
 <p>This AR Game makes people familiar and comfortable with the whole technology of Augmented Reality which is useful for following application:
 <ol>
@@ -99,10 +119,10 @@ We used raycasting to detect the enemies while the enemy is being killed such th
 <h2>References</h2>
 <p>
 
-1. [FPS Guide]https://www.youtube.com/watch?v=Sqb-Ue7wpsI&t=17652s
-2. [Animations]<a href="url">www.mixamo.com</a>
-3. [AR Game development courses]https://drive.google.com/drive/folders/1L2oJ8p5TppPiQD7Vw-KtCbtAPYDjI8l1?usp=sharing
-4. [Forum for resolving most of the errors(Unity)]https://www.answers.unity.com/index.html
-5. [AR plane detection]https://www.youtube.com/watch?v=Y2ewpLX6M_s
+1. [FPS Guide](https://www.youtube.com/watch?v=Sqb-Ue7wpsI&t=17652s)
+2. [Animations](<a href="url">www.mixamo.com</a>)
+3. [AR Game development courses](https://drive.google.com/drive/folders/1L2oJ8p5TppPiQD7Vw-KtCbtAPYDjI8l1?usp=sharing)
+4. [Forum for resolving most of the errors(Unity)](https://www.answers.unity.com/index.html)
+5. [AR plane detection](https://www.youtube.com/watch?v=Y2ewpLX6M_s)
 
 </p>
