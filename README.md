@@ -120,7 +120,7 @@ We used raycasting to detect the enemies while the enemy is being killed such th
 <p>
 
 1. [FPS Guide](https://www.youtube.com/watch?v=Sqb-Ue7wpsI&t=17652s)
-2. [Animations](<a href="url">www.mixamo.com</a>)
+2. [Animations](https://www.mixamo.com/)
 3. [AR Game development courses](https://drive.google.com/drive/folders/1L2oJ8p5TppPiQD7Vw-KtCbtAPYDjI8l1?usp=sharing)
 4. [Forum for resolving most of the errors(Unity)](https://www.answers.unity.com/index.html)
 5. [AR plane detection](https://www.youtube.com/watch?v=Y2ewpLX6M_s)
