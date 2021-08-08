@@ -1,0 +1,469 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &2108359807
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3870729401477343337}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c56c9eb6d14e4854b316f59e1296fb4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Locations:
+  - LocationInput:
+      LocationInputType: 0
+      LocationData: {fileID: 0}
+      Location:
+        Latitude: 17.5109152
+        Longitude: 78.5092769
+        Altitude: 0
+        AltitudeMode: 1
+        Label: 
+      OverrideAltitudeData:
+        OverrideAltitude: 0
+        Altitude: 0
+        AltitudeMode: 0
+  - LocationInput:
+      LocationInputType: 0
+      LocationData: {fileID: 0}
+      Location:
+        Latitude: 17.572920550311736
+        Longitude: 78.37915280400193
+        Altitude: 1
+        AltitudeMode: 0
+        Label: 
+      OverrideAltitudeData:
+        OverrideAltitude: 0
+        Altitude: 0
+        AltitudeMode: 0
+  - LocationInput:
+      LocationInputType: 0
+      LocationData: {fileID: 0}
+      Location:
+        Latitude: 17.572920550311736
+        Longitude: 78.37915280400193
+        Altitude: 1
+        AltitudeMode: 0
+        Label: 
+      OverrideAltitudeData:
+        OverrideAltitude: 0
+        Altitude: 0
+        AltitudeMode: 0
+  - LocationInput:
+      LocationInputType: 0
+      LocationData: {fileID: 0}
+      Location:
+        Latitude: 17.572920550311736
+        Longitude: 78.37915280400193
+        Altitude: 1
+        AltitudeMode: 0
+        Label: 
+      OverrideAltitudeData:
+        OverrideAltitude: 0
+        Altitude: 0
+        AltitudeMode: 0
+  - LocationInput:
+      LocationInputType: 0
+      LocationData: {fileID: 0}
+      Location:
+        Latitude: 17.572920550311736
+        Longitude: 78.37915280400193
+        Altitude: 1
+        AltitudeMode: 0
+        Label: 
+      OverrideAltitudeData:
+        OverrideAltitude: 0
+        Altitude: 0
+        AltitudeMode: 0
+  - LocationInput:
+      LocationInputType: 0
+      LocationData: {fileID: 0}
+      Location:
+        Latitude: 17.572920550311736
+        Longitude: 78.37915280400193
+        Altitude: 1
+        AltitudeMode: 0
+        Label: 
+      OverrideAltitudeData:
+        OverrideAltitude: 0
+        Altitude: 0
+        AltitudeMode: 0
+  - LocationInput:
+      LocationInputType: 0
+      LocationData: {fileID: 0}
+      Location:
+        Latitude: 17.572920550311736
+        Longitude: 78.37915280400193
+        Altitude: 1
+        AltitudeMode: 0
+        Label: 
+      OverrideAltitudeData:
+        OverrideAltitude: 0
+        Altitude: 0
+        AltitudeMode: 0
+  - LocationInput:
+      LocationInputType: 0
+      LocationData: {fileID: 0}
+      Location:
+        Latitude: 17.572920550311736
+        Longitude: 78.37915280400193
+        Altitude: 1
+        AltitudeMode: 0
+        Label: 
+      OverrideAltitudeData:
+        OverrideAltitude: 0
+        Altitude: 0
+        AltitudeMode: 0
+  - LocationInput:
+      LocationInputType: 0
+      LocationData: {fileID: 0}
+      Location:
+        Latitude: 17.572920550311736
+        Longitude: 78.37915280400193
+        Altitude: 1
+        AltitudeMode: 0
+        Label: 
+      OverrideAltitudeData:
+        OverrideAltitude: 0
+        Altitude: 0
+        AltitudeMode: 0
+  - LocationInput:
+      LocationInputType: 0
+      LocationData: {fileID: 0}
+      Location:
+        Latitude: 17.572920550311736
+        Longitude: 78.37915280400193
+        Altitude: 1
+        AltitudeMode: 0
+        Label: 
+      OverrideAltitudeData:
+        OverrideAltitude: 0
+        Altitude: 0
+        AltitudeMode: 0
+  - LocationInput:
+      LocationInputType: 0
+      LocationData: {fileID: 0}
+      Location:
+        Latitude: 17.572920550311736
+        Longitude: 78.37915280400193
+        Altitude: 1
+        AltitudeMode: 0
+        Label: 
+      OverrideAltitudeData:
+        OverrideAltitude: 0
+        Altitude: 0
+        AltitudeMode: 0
+  - LocationInput:
+      LocationInputType: 0
+      LocationData: {fileID: 0}
+      Location:
+        Latitude: 17.572920550311736
+        Longitude: 78.37915280400193
+        Altitude: 1
+        AltitudeMode: 0
+        Label: 
+      OverrideAltitudeData:
+        OverrideAltitude: 0
+        Altitude: 0
+        AltitudeMode: 0
+  - LocationInput:
+      LocationInputType: 0
+      LocationData: {fileID: 0}
+      Location:
+        Latitude: 17.572920550311736
+        Longitude: 78.37915280400193
+        Altitude: 1
+        AltitudeMode: 0
+        Label: 
+      OverrideAltitudeData:
+        OverrideAltitude: 0
+        Altitude: 0
+        AltitudeMode: 0
+  - LocationInput:
+      LocationInputType: 0
+      LocationData: {fileID: 0}
+      Location:
+        Latitude: 17.572920550311736
+        Longitude: 78.37915280400193
+        Altitude: 1
+        AltitudeMode: 0
+        Label: 
+      OverrideAltitudeData:
+        OverrideAltitude: 0
+        Altitude: 0
+        AltitudeMode: 0
+  - LocationInput:
+      LocationInputType: 0
+      LocationData: {fileID: 0}
+      Location:
+        Latitude: 17.572920550311736
+        Longitude: 78.37915280400193
+        Altitude: 1
+        AltitudeMode: 0
+        Label: 
+      OverrideAltitudeData:
+        OverrideAltitude: 0
+        Altitude: 0
+        AltitudeMode: 0
+  - LocationInput:
+      LocationInputType: 0
+      LocationData: {fileID: 0}
+      Location:
+        Latitude: 17.572920550311736
+        Longitude: 78.37915280400193
+        Altitude: 1
+        AltitudeMode: 0
+        Label: 
+      OverrideAltitudeData:
+        OverrideAltitude: 0
+        Altitude: 0
+        AltitudeMode: 0
+  - LocationInput:
+      LocationInputType: 0
+      LocationData: {fileID: 0}
+      Location:
+        Latitude: 17.572920550311736
+        Longitude: 78.37915280400193
+        Altitude: 1
+        AltitudeMode: 0
+        Label: 
+      OverrideAltitudeData:
+        OverrideAltitude: 0
+        Altitude: 0
+        AltitudeMode: 0
+  - LocationInput:
+      LocationInputType: 0
+      LocationData: {fileID: 0}
+      Location:
+        Latitude: 17.572920550311736
+        Longitude: 78.37915280400193
+        Altitude: 1
+        AltitudeMode: 0
+        Label: 
+      OverrideAltitudeData:
+        OverrideAltitude: 0
+        Altitude: 0
+        AltitudeMode: 0
+  - LocationInput:
+      LocationInputType: 0
+      LocationData: {fileID: 0}
+      Location:
+        Latitude: 17.572920550311736
+        Longitude: 78.37915280400193
+        Altitude: 1
+        AltitudeMode: 0
+        Label: 
+      OverrideAltitudeData:
+        OverrideAltitude: 0
+        Altitude: 0
+        AltitudeMode: 0
+  - LocationInput:
+      LocationInputType: 0
+      LocationData: {fileID: 0}
+      Location:
+        Latitude: 17.572920550311736
+        Longitude: 78.37915280400193
+        Altitude: 1
+        AltitudeMode: 0
+        Label: 
+      OverrideAltitudeData:
+        OverrideAltitude: 0
+        Altitude: 0
+        AltitudeMode: 0
+  PlacementOptions:
+    MovementSmoothing: 0.05
+    MaxNumberOfLocationUpdates: 4
+    UseMovingAverage: 0
+    HideObjectUntilItIsPlaced: 1
+    ShowObjectAfterThisManyUpdates: 1
+  Prefab: {fileID: 297487488359168741, guid: a77d73319546adb4e8871f709df0f9a0, type: 3}
+  DebugMode: 0
+--- !u!114 &8095883822977223512
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3870729401477343337}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96620cfadb072ce4f93bd7effc6d7a87, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &9041990806029886015
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3870729401477343337}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78996731aafa4d74480d15a7d04aaa1a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  enemy_Anim: {fileID: 8095883822977223512}
+  navAgent: {fileID: 9031283685287145282}
+  enemy_State: 0
+  walk_Speed: 0.5
+  run_Speed: 4
+  chase_Distance: 7
+  attack_Distance: 1.8
+  chase_After_Attack_Distance: 2
+  patrol_Radius_Min: 20
+  patrol_Radius_Max: 60
+  patrol_For_this_Time: 15
+  patrol_Timer: 0
+  wait_Before_Attack: 2
+  current_speed: 0
+  attack_Point: {fileID: 0}
+--- !u!114 &3295429233048567676
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3870729401477343337}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7d0788b6b86beb49a3981e89ef89fb3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 100
+  is_Player: 0
+  is_Cannibal: 0
+--- !u!1001 &1655409530140441402
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2544153167807975283, guid: 167a792bdd0969742b2fdb12494349a0,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2544153167807975283, guid: 167a792bdd0969742b2fdb12494349a0,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2544153167807975283, guid: 167a792bdd0969742b2fdb12494349a0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2544153167807975283, guid: 167a792bdd0969742b2fdb12494349a0,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2544153167807975283, guid: 167a792bdd0969742b2fdb12494349a0,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -837.7758
+      objectReference: {fileID: 0}
+    - target: {fileID: 2544153167807975283, guid: 167a792bdd0969742b2fdb12494349a0,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -295.64685
+      objectReference: {fileID: 0}
+    - target: {fileID: 2544153167807975283, guid: 167a792bdd0969742b2fdb12494349a0,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 5.361878
+      objectReference: {fileID: 0}
+    - target: {fileID: 2544153167807975283, guid: 167a792bdd0969742b2fdb12494349a0,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2544153167807975283, guid: 167a792bdd0969742b2fdb12494349a0,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2544153167807975283, guid: 167a792bdd0969742b2fdb12494349a0,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2544153167807975283, guid: 167a792bdd0969742b2fdb12494349a0,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2544153167807975283, guid: 167a792bdd0969742b2fdb12494349a0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2544153167807975283, guid: 167a792bdd0969742b2fdb12494349a0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2544153167807975283, guid: 167a792bdd0969742b2fdb12494349a0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2544153167808336723, guid: 167a792bdd0969742b2fdb12494349a0,
+        type: 3}
+      propertyPath: m_Name
+      value: Cannibal 1 Variant 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2544153167808336723, guid: 167a792bdd0969742b2fdb12494349a0,
+        type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 3847294644765545202, guid: 167a792bdd0969742b2fdb12494349a0,
+        type: 3}
+      propertyPath: m_UseGravity
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3847294644765545202, guid: 167a792bdd0969742b2fdb12494349a0,
+        type: 3}
+      propertyPath: m_Constraints
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4112197583262289762, guid: 167a792bdd0969742b2fdb12494349a0,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5920901403423249590, guid: 167a792bdd0969742b2fdb12494349a0,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7386768959457045996, guid: 167a792bdd0969742b2fdb12494349a0,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7758755045168059512, guid: 167a792bdd0969742b2fdb12494349a0,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 3847294644765545202, guid: 167a792bdd0969742b2fdb12494349a0, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 167a792bdd0969742b2fdb12494349a0, type: 3}
+--- !u!1 &3870729401477343337 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2544153167808336723, guid: 167a792bdd0969742b2fdb12494349a0,
+    type: 3}
+  m_PrefabInstance: {fileID: 1655409530140441402}
+  m_PrefabAsset: {fileID: 0}
+--- !u!195 &9031283685287145282 stripped
+NavMeshAgent:
+  m_CorrespondingSourceObject: {fileID: 7758755045168059512, guid: 167a792bdd0969742b2fdb12494349a0,
+    type: 3}
+  m_PrefabInstance: {fileID: 1655409530140441402}
+  m_PrefabAsset: {fileID: 0}
