@@ -1,29 +1,36 @@
+<p align="justify">
 <h1>AR-Based Game</h1>
 <h2>Open Projects 2020</h2>
+</p>
 
 <p align="center">
-<img src="https://github.com/the-brawler/AR-based-game-1/blob/main/Images%20and%20Videos/Main-Menu.jpeg" alt="Main Menu">
+<img src="https://github.com/the-brawler/AR-based-game-1/blob/main/Images%20and%20Videos/Images/Main-Menu.jpeg" alt="Main Menu">
 <i>Main Menu</i>
 </p>
 
+<p align="justify">
 <h2>Abstract</h2>
 <p>An AR Based 3D FPS game which uses our device camera to spawn enemies in our real world and we have to kill maximum of them using vintage weapons like bow and arrow, shotgun, axe and revolver. AR Foundation package of Unity 3D has been used to build this game.</p>
+</p>
 
 <p align="center">
-<img src="https://github.com/the-brawler/AR-based-game-1/blob/main/Images%20and%20Videos/Unity-Pic.jpeg" alt="Unity picture">
+<img src="https://github.com/the-brawler/AR-based-game-1/blob/main/Images%20and%20Videos/Images/Unity-Pic.jpeg" alt="Unity picture">
 <i>Unity interface</i>
 </p>
 
 <p align="center">
-<img src="https://github.com/the-brawler/AR-based-game-1/blob/main/Images%20and%20Videos/Cannibal-Boar-Enemies.jpeg" alt="Enemies">
+<img src="https://github.com/the-brawler/AR-based-game-1/blob/main/Images%20and%20Videos/Images/Cannibal-Boar-Enemies.jpeg" alt="Enemies">
 <i>Enemies (Cannibal and Boar)</i>
 </p>
 
+<p align="justify">
 <h2>Motivation</h2>
 <p>Augmented Reality is a medium which creates a link between virtual world and real world. Using AR we can interact with virtual objects in our real surroundings using our phone. The game deals with the same in which the enemies like cannibal, boar appear in our real world when viewed from our playing device and we have to kill them using the weapons available and also escape their attacks by moving away from the enemies, which can be done by physically moving back. The player movement in the real world searching for game objects and enemies makes it involving and interesting.</p>
 <p>
 The idea is to make people familiar with AR in a fun and involving method. The concept of AR are now being widely used for different stuff like, 3D clothes, glasses try on before buying, furniture and other decoratives for home, trying them how it would look in the house using AR before actually buying it. To make people comfortable of this technology, this game takes a small step.</p>
+</p>
 
+<p align="justify">
 <h2>Software Aspect</h2>
 <p>AR works by merging both the coordinates of virtual and real world hence we can spawn the virtual object in real world.</p>
 <h3>Raycasting</h3>
@@ -32,7 +39,14 @@ Raycasting is a process of shooting a Ray which is an invisible line (it can be 
 In our project we used the raycasting feature of AR Foundation to spawn the enemies perfectly on the ground. So we used a indicator instead of the default AR plane which is used to be placed on the detected plane and then based on the coordinates of the indicator we made some changes to x and z coordinates of the indicator so that the object is not exactly placed of the indicator (exactly at the place where camera is looking) but at some random point almost close to coordinates of the indicator. This procedure of spawning is being called for every 6 seconds in Level 1 and for every 5 seconds in Level 2. So, by this we were able to spawn the enemies exactly on the ground.
 We used raycasting to detect the enemies while the enemy is being killed such that enemy can be killed only when the ray hits the enemy which is in the real world and that collision coordinate is noted and then it is checked if the name of the object which was collided with the ray is with name given by us to that object and if that is matched then according to the number of shoots the enemy gets dead. So inorder to help the virtual object to be get collided with the ray we use box colliders which we attached to the body of the enemies. The green colour cube around these prefabs is the box collider. 
 </p>
+</p>
 
+<p align="justify">
+<h2>Main Game</h2>
+<p>The game can be played by downloading from https://github.com/the-brawler/AR-based-game-1/raw/main/apk/AR%20FPS.apk</p>
+</p>
+
+<p align="justify">
 <h2>Cost Structure</h2>
 <table style="width:100%">
   <tr>
@@ -52,7 +66,9 @@ We used raycasting to detect the enemies while the enemy is being killed such th
     <td>Depends on different assets</br>Free assets used</td>
   </tr>
 </table>
+</p>
 
+<p align="justify">
 <h2>Applications</h2>
 <p>This AR Game makes people familiar and comfortable with the whole technology of Augmented Reality which is useful for following application:
 <ol>
@@ -63,16 +79,20 @@ We used raycasting to detect the enemies while the enemy is being killed such th
 <li> AR in association with VR and robotics can be used for application in various industry sectors like manufacturing product in different sectors </li>
 </ol>
 </p>
+</p>
 
+<p align="justify">
 <h2>Limitations</h2>
 <p>
 
 1. Real world objects like vertical planes(walls), trees and other things have not been perfectly optimized.
 2. Not compatibal for iOS yet.
-3. Bugs
+3. Can be played properly in an open space only. Does not give a good experience in small area like rooms.
 
 </p>
+</p>
 
+<p align="justify">
 <h2>Future Improvements</h2>
 <p>
 
@@ -92,9 +112,10 @@ We used raycasting to detect the enemies while the enemy is being killed such th
 14. Weapons to be spawned in the world around us which have to be found to kill the enemies.
 
 </p>
+</p>
 
 <p align="center">
-<img src="https://github.com/the-brawler/AR-based-game-1/blob/main/Images%20and%20Videos/Enemy-Death-Enemy-Chase-Blood.jpeg" alt="Enemies Chase and blood">
+<img src="https://github.com/the-brawler/AR-based-game-1/blob/main/Images%20and%20Videos/Images/Enemy-Death-Enemy-Chase-Blood.jpeg" alt="Enemies Chase and blood">
 <i>Enemies (Chase, death, blood)</i>
 </p>
 
