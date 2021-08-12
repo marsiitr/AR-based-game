@@ -43,7 +43,7 @@ We used raycasting to detect the enemies while the enemy is being killed such th
 
 <p align="justify">
 <h2>Main Game</h2>
-<p>The game can be played by downloading from [here](https://github.com/the-brawler/AR-based-game-1/apk/AR%20FPS.apk)</p>
+<p>The game can be played by downloading from https://github.com/the-brawler/AR-based-game-1/apk/AR%20FPS.apk</p>
 </p>
 
 <p align="justify">
