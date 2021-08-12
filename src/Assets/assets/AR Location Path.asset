@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c63d15506dd69f48a388fc9c4976162, type: 3}
+  m_Name: AR Location Path
+  m_EditorClassIdentifier: 
+  Locations:
+  - Latitude: 17.515913
+    Longitude: 78.506132
+    Altitude: 1
+    AltitudeMode: 0
+    Label: 
+  - Latitude: 17.515924
+    Longitude: 78.506122
+    Altitude: 2
+    AltitudeMode: 0
+    Label: 
+  - Latitude: 17.51905
+    Longitude: 78.506125
+    Altitude: 3
+    AltitudeMode: 0
+    Label: 
+  - Latitude: 17.515917
+    Longitude: 78.506122
+    Altitude: 4
+    AltitudeMode: 0
+    Label: 
+  - Latitude: 17.515927
+    Longitude: 78.506122
+    Altitude: 5
+    AltitudeMode: 0
+    Label: 
+  SplineType: 0
+  Alpha: 0.5
+  SceneViewScale: 1
